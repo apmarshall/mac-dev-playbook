@@ -18,24 +18,66 @@ dotfiles_files:
 
 homebrew_installed_packages:
   - autoconf
+  - automake
+  - awscli
   - bash-completion
+  - binutils
+  - cmake
+  - composer
+  - coreutils
+  - ctags
+  - diffutils
+  - docker
+  - docker-compose
+  - docker-machine
   - doxygen
+  - emacs
+  - findutils
+  - fontconfig
   - git
+  - git-extras
+  - git-flow
+  - glances
+  - gnu-sed
+  - gnu-tar
+  - gnu-which
   - go
+  - googler
+  - grep
+  - gzip
+  - haskell-stack
+  - htop
   - hub
   - iperf
+  - jq
   - libevent
-  - sqlite
   - mcrypt
   - nmap
   - node
   - nvm
+  - ocaml
+  - pandoc
+  - perl
   - php
-  - ssh-copy-id
-  - readline
+  - phpunit
+  - postresql
   - pv
+  - python3
+  - readline
+  - ruby
+  - rust
+  - sqlite
+  - ssh-copy-id
+  - task
+  - taskd
+  - timewarrior
+  - tmux
+  - vim
+  - vv
   - wget
   - wrk
+  - yarn
+  - zsh
 
 homebrew_taps:
   - homebrew/core
