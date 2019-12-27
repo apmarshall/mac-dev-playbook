@@ -88,14 +88,8 @@ homebrew_cask_apps:
   - dropbox
   - firefox
   - google-chrome
-  - handbrake
-  - licecap
-  - macvim
   - sequel-pro
-  - skitch
   - slack
-  - sublime-text
-  - transmit
   - vagrant
 
 # See `geerlingguy.mas` role documentation for usage instructions.
