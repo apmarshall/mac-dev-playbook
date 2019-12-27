@@ -142,9 +142,10 @@ gem_packages: []
   #   state: present # present/absent/latest, default: present
   #   version: "~> 1.15.1" # default: N/A
 npm_packages: []
-  # - name: webpack
-  #   state: present # present/absent/latest, default: present
-  #   version: "^2.6" # default: N/A
+  - eslint
+  - gulp
+  - js-beautify
+  - tslint
 pip_packages: []
   # - name: mkdocs
   #   state: present # present/absent/latest, default: present
