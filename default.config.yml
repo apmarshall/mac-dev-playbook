@@ -27,9 +27,7 @@ homebrew_installed_packages:
   - coreutils
   - ctags
   - diffutils
-  - docker
   - docker-compose
-  - docker-machine
   - doxygen
   - emacs
   - findutils
