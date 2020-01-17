@@ -52,6 +52,7 @@ homebrew_installed_packages:
   - phpunit
   - postresql
   - python3
+  - restic
   - ruby
   - rust
   - sqlite
