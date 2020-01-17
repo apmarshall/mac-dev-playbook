@@ -19,6 +19,8 @@ dotfiles_files:
 homebrew_installed_packages:
   - awscli
   - bash-completion
+  - boot2docker
+  - brotli
   - composer
   - coreutils
   - ctags
