@@ -81,13 +81,10 @@ homebrew_cask_apps:
   - docker
   - dropbox
   - firefox
-  - flock
   - flux
   - gimp
   - google-chrome
   - google-drive-file-stream
-  - hammerspoon
-  - imageoptim
   - integrity
   - iterm2
   - java
@@ -110,6 +107,8 @@ homebrew_cask_apps:
   - vectr
   - virtualbox
   - vistual-studio-code
+  - vnc-server
+  - vnc-viewer
   - wordpresscom
   - xquartz
 
