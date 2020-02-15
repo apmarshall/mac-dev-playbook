@@ -74,44 +74,10 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
-  - airtable
-  - alfred
-  - blender
-  - cacher
   - chromedriver
-  - cyberduck
   - docker
-  - dropbox
-  - firefox
-  - flux
-  - gimp
-  - google-chrome
-  - google-drive-file-stream
-  - integrity
-  - iterm2
   - java
-  - joplin
-  - kap
-  - kid3
-  - mysqlworkbench
-  - opera
-  - pencil
-  - podcastmenu
-  - postman
   - racket
-  - screenhero
-  - selfcontrol
-  - sequel-pro
-  - shotcut
-  - slack
-  - station
-  - vagrant
-  - vectr
-  - virtualbox
-  - vistual-studio-code
-  - vnc-server
-  - vnc-viewer
-  - wordpresscom
   - xquartz
 
 # See `geerlingguy.mas` role documentation for usage instructions.
