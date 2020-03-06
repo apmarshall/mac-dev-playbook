@@ -16,3 +16,35 @@ OracleJava8.munki
 WordPress.com.munki
 Zoom.munki
 MakeCatalogs.munki
+
+
+# airtable
+# alfred
+# blender
+# chromedriver
+# cyberduck
+# docker
+# flux
+# gimmp
+# google-drive-file-stream
+# integrity
+# iterm2
+# joplin
+# kap
+# kid3
+# mysqlworkbench
+# opera
+# pencil
+# podcastmennu
+# postman
+# racket
+# screenhero
+# sequel-pro
+# shotcut
+# station
+# vectr
+# virtualbox
+# visual-studio-code
+# vnc-server
+# vnc-viewer
+# xquartz
