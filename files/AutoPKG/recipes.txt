@@ -1,50 +1,62 @@
 munkitools4.munki
+Airtable.munki
+Alfred4.munki
+Bitwarden.munki
+Blender.munki
 Cyberduck.munki
+Docker.munki
+DriveFS.munki
 Dropbox.munki
+Firefox.munki
+Flux.munki
+GIMP.munki
 GoogleChrome.munki
+Integrity.munki
+iTerm2.munki
+Kap.munki
+KnockKnock.munki
+LuLu.munki
 MSExcel2019.munki
 MSOneNote2019.munki
 MSOutlook2019.munki
 MSPowerPoint2019.munki
 MSWord2019.munki
 MSAutoUpdate.munki
-Firefox.munki
-SelfControl.munki
-Slack.munki
-Thunderbird.munki
+MySQLWorkbench.munki
+Opera.munki
 OracleJava8.munki
+Netiquette.munki
+Pencil.munki
+Postman.munki
+RealVNCServer.munki
+RealVNCViewer.munki
+SelfControl.munki
+SequelPro.munki
+Shotcut.munki
+Slack.munki
+Station.munki
+Thunderbird.munki
+VirtualBox.munki
+VisualStudioCode.munki
 WordPress.com.munki
+XQuartz.munki
 Zoom.munki
 MakeCatalogs.munki
 
-
-# airtable
-# alfred
-# blender
+# blockblock
 # chromedriver
-# cyberduck
-# docker
-# flux
-# gimmp
-# google-drive-file-stream
-# integrity
-# iterm2
+# dhs
 # joplin
-# kap
+# kextviewr
 # kid3
-# mysqlworkbench
-# opera
-# pencil
-# podcastmennu
-# postman
-# racket
+# lockdown
+# nordvpn
+# oversight
+# podcastmenu
+# ransomwhere
+# reikey
 # screenhero
-# sequel-pro
-# shotcut
-# station
+# security-growler
+# taskexplorer
 # vectr
-# virtualbox
-# visual-studio-code
-# vnc-server
-# vnc-viewer
-# xquartz
+# whatsyoursign
